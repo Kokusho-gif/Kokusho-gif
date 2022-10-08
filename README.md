@@ -1,5 +1,10 @@
-# What for
-This repository will contain of programs which help to understand Network Technology.
+# Introduction
+Hi! I'm Taisuke. M1 Student.
+
+# Current interest
+- Deep Learning
+- DevOps, MLOps
+- Cloud tech(AWS)
 
 <!---
 Kokusho-gif/Kokusho-gif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
